@@ -9,10 +9,10 @@ open image, upscale then save to file
 
 ## Results :
 
-<img src="./demo/image1.png" width="256"> <img src="./demo/image1up.png" width="256">
+<img src="./demo/image1.png" width="512"> <img src="./demo/image1up.png" width="512">
 
-<img src="./demo/image2.jpg" width="256"> <img src="./demo/image2up.jpg" width="256">
+<img src="./demo/image2.jpg" width="512"> <img src="./demo/image2up.jpg" width="512">
 
-<img src="./demo/image3.jpg" width="256"> <img src="./demo/image3up.jpg" width="256">
+<img src="./demo/image3.jpg" width="512"> <img src="./demo/image3up.jpg" width="512">
 
-<img src="./demo/image4.jpg" width="256"> <img src="./demo/image4up.jpg" width="256">
+<img src="./demo/image4.jpg" width="512"> <img src="./demo/image4up.jpg" width="512">
